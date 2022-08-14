@@ -1,0 +1,27 @@
+,sentence,paraphrased,class_1,class_2,correct
+0,This time period starts when the consumer begins to experience financial difficulty.,This time frame begins when the customer first encounters financial difficulties.,CR,N,N
+1,"By increasing crop yields, we help limit the conversion of carbonsequestering forests into farmland.",We reduce the conversion of carbon-sequestering forests into cropland by boosting crop yields.,NC,CC,NC
+2,The repurchase right lapses as to approximately 834 shares per month.,"Every month, the buyback right expires with regard to about 834 shares.",CG,N,CG
+3,Rules of conduct will be provided to you at the annual meeting of stockholders.,You will get the rules of behavior at the annual stockholders meeting.,BE,CG,BE
+4,UDR made no political contributions to candidates in 2020.,"In the 2020 election, UDR did not support any candidates financially.",BE,CG,BE
+5,Huntington has earned a reputation for strong community involvement and innovative civic leadership.,Huntington is known for its active civic participation and creative civic leadership.,CR,HC,CR
+6,A key issue in maintaining that trust is data privacy and security.,Data security and privacy are a crucial concern in upholding that trust.,PL,BE,PL
+7,"At peak construction and fabrication, FGP-WPMP will generate around 20,000 jobs.","Around 20,000 jobs will be created by FGP-WPMP during the height of construction and fabrication.",HC,CR,HC
+8,"In 2018, we provided more than $6 billion in loans for affordable housing projects in the U.S.","For affordable housing developments in the United States in 2018, we offered loans totaling more than $6 billion.",CR,CC,CR
+9,All of our final assembly sites now use these safer cleaners.,These safer cleansers are now used at all of our final assembly locations.,PL,PW,PL
+10,"Through this involvement, we have recently signed on to the REBA Commercial Real Estate Principles.",We just endorsed the REBA Commercial Real Estate Principles as a result of this involvement.,CC,CR,CC
+11,"To date, more than 400 individuals representing more than 140 pack houses have received training.","More than 400 people, representing more than 140 pack households, have trained so far.",HC,CR,HC
+12,Some involve claims for substantial amounts of money and/or claims for punitive damages.,Some of them entail claims for large financial compensation and/or punitive damages.,N,BE,N
+13,"ChevronTexaco employees and their families receive high-quality, comprehensive health care.",Health care for ChevronTexaco personnel and their families is of the highest caliber.,HC,CR,HC
+14,Promote the use o f sustainability metrics in industry sourcing .,Encourage the use of sustainability metrics in procurement for industry.,HC,CR,NC
+15,We also operate our plants efficiently using captured waste heat.,We utilize captured waste heat to efficiently run our facilities.,CC,PW,CC
+16,"To achieve this , we donate our time, tickets , funds , and , most importantly, our LUV.","We give our time, tickets, money, and most importantly, our LUV to accomplish this.",CR,HC,CR
+17,We have reset our waste diversion target to 60% by 2025.,Our new trash diversion goal for 2025 is 60%.,PW,NC,PW
+18,We focus on minimizing the impact our water use has on regions where we operate.,Our main goal is to have as little of an impact as possible on the areas in which we operate.,NC,CR,NC
+19,"Due to monitoring and enhanced resident education, our waste diversion rate reached 13% in 2020.",Our garbage diversion rate increased to 13% in 2020 as a result of monitoring and better resident education.,PW,HC,PW
+20,"In 2001-02, SBC made at least $1,480,645.00 in political contributions.","SBC donated at least $1,480,645.00 to politics in 2001-02.",BE,CR,BE
+21,"We invest in, develop and use advanced technology to help safeguard information.",We make investments in cutting-edge technology and work to develop and implement it.,PL,CC,PL
+22,A primary focus is supporting capacity building for diverse businesses.,Supporting the capacity-building of varied businesses is a main priority.,N,CC,CR
+23,General Mills is also working to build a safer global food system.,The creation of a more secure global food chain is another goal of General Mills.,PL,CR,PL
+24,Community engagement and partnership is a core Arista value.,Partnering with the community is a fundamental Arista value.,BE,CR,BE
+25,An independent third party operates the Action Line to ensure confidentiality.,The Action Line is run by a separate third party to maintain privacy.,BE,PL,BE
